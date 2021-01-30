@@ -1,11 +1,3 @@
-"""
-@author: Randhir Kumar
-@email: randhirkumarsonukumar@gmail.com
-@date: 13-september-2020
-"""
-import random
-from time import sleep
-
 import pygame
 
 
@@ -145,4 +137,3 @@ class CarRacing:
 if __name__ == '__main__':
     car_racing = CarRacing()
     car_racing.racing_window()
-
